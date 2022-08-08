@@ -22,7 +22,7 @@ After completing the Java Programming I course made freely available by the Univ
 #### This project allows you to get a taste of Java. Challenge yourself with loops and conditions, practice working with classes, and get more confident in Java.
 ##### ~ 13 hours to complete the project
 
-### On-going
+## On-going
 
 ### Battleship
 #### You will understand the process of developing such a complex program as a game and learn about processing user input and handling errors.
